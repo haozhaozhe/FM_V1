@@ -1,11 +1,10 @@
 import scanpy as sc
 import pandas as pd
 
-
 # # Fig1
 
 # # prepare data
-
+#load data
 ad =sc.read('data/Figure/FM27_cell_133454_wk.h5')
 
 # # UMAP
