@@ -24,7 +24,6 @@ adhu.obs['cell_label'] = adhu.obs['cluster_label']
 
 admk = data_subset(gaba,key = 'subclass', n=500, frac=1)
 
-
 # # Matching dataset
 
 adhu_m,admk_m =  match_gene(adhu, admk,ref_csv_path = "data/python/human2monkey.csv",
