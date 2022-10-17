@@ -19,6 +19,6 @@ Expression matrix and the metadata are publicly available in arrayExpress with t
 
 E-MTAB-10459 (Macaque V1 10X genomics dataset)
 
-E-MTAB- (Macaque V1 10X genomics dataset).
+E-MTAB- (Macaque V1 patch-seq dataset).
 
 The raw sequencing files (fastq) are public available with the same accession numbers.
