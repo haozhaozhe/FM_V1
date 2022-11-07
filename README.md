@@ -21,4 +21,6 @@ E-MTAB-10459 (Macaque V1 10X genomics dataset)
 
 E-MTAB- (Macaque V1 patch-seq dataset).
 
-The raw sequencing files (fastq) are public available with the same accession numbers.
+The raw sequencing files (fastq) are partially public available with the same accession numbers due to the large size.
+
+The full raw sequencing files is available upon reasonable request to the authors.
