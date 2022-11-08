@@ -1,6 +1,6 @@
 # FM_V1
 
-Code for macaque visual cortex cell atalus.
+Code for macaque visual cortex cell atlas.
 
 Comprehensive whole-cell profiling of primate primary visual cortex unveils new cell types and species differences in gene expression
 Jia-Ru Wei1, Zhao-Zhe Hao1, Chuan Xu, Mengyao Huang, Lei Tang, Nana Xu, Ruifeng Liu, Yuhui Shen, Sarah A. Teichmann*, Zhichao Miao*, Sheng Liu*
